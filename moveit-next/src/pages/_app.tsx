@@ -1,16 +1,12 @@
 import '../styles/global.css'
 
-import { ChallengesProvider } from '../contexts/ChanllengeContext'
 import React from 'react'
-import { CountDownProvider } from '../contexts/CountDownContext'
 
 function MyApp({ Component, pageProps }) {
   
 
-  return (
-    <ChallengesProvider>     
+  return (      
       <Component {...pageProps} />
-    </ChallengesProvider>
   )
 }
 

@@ -1,7 +1,7 @@
 import { useContext, useEffect, useState } from 'react'
 import { ChallengesContext } from '../contexts/ChanllengeContext';
 import { CountDownContext } from '../contexts/CountDownContext';
-import styles from '../styles/components/CountDown.module.css'
+import styles from '../styles/components/Countdown.module.css'
 
 export function CountDown(){
     const { minutes,seconds,isative,hasfinish,startCountDown,RestetCountDown } = useContext(CountDownContext)
