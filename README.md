@@ -28,7 +28,7 @@ Application created for to help programmers use the pomodoro technique
 
 ## Getting started
 
-1. Clone this repo using `git clone https://github.com/raphaom35/Movi.it.git`
+1. Clone this repo using `git clone https://github.com/raphaom35/Move.it.git`
 2. Move yourself to the appropriate directory: `cd moveit-next`<br />
 3. Run `yarn` to install dependencies<br />
 4. Run: `yarn dev`
