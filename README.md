@@ -1,6 +1,8 @@
 <h1 align="center">
 <br>
 Move It
+<br>
+  <img src="https://github.com/raphaom35/Movi.it/blob/main/moveit-next/public/favicon.png" alt="Moveit">
 </h1>
 
 <p align="center">
