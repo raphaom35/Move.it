@@ -1,0 +1,12 @@
+{
+  "name": "Movit_app",
+  "displayName": "Movit_app",
+  "expo": {
+    "name": "Movit_app",
+    "slug": "Movit_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
