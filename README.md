@@ -1,5 +1,4 @@
 <h1 align="center">
-<br>
   <img src="https://github.com/raphaom35/Movi.it/blob/main/moveit-next/public/logo-full.svg" widht alt="Moveit">
 <br>
 </h1>
