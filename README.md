@@ -14,7 +14,7 @@ Application created for to help programmers use the pomodoro technique
 </p>
 
 <div align="center">
-<img src="/moveit.gif" width="400" />
+<img src="/moveit.gif" width="550" />
 
 </div>
 
