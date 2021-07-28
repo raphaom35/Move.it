@@ -28,7 +28,7 @@ export  function CountDownProvider({ children }: CountDownProviderProps) {
     function RestetCountDown(){
         clearTimeout(countDownTimeouts);
         setisative(false);
-        setTime(0.1*60);
+        setTime(1800000);
         sethasfinish(false);
     }
 
